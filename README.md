@@ -1,6 +1,6 @@
 # Multi-Staged-Payload
 
-All credits to 
+All credits to @kmkz_security
 
 A cleaner version of https://github.com/kmkz/exploit/blob/master/Full-payload-delivery-chain.ps1
 
